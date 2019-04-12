@@ -3,6 +3,9 @@ create: 08.4.2019
 autor: Miriam Nold
 PSoC Fundamentals
 Exercise 1
+
+works fine, code ok
+
 */
 
 #include <m8c.h>        // part specific constants and macros
